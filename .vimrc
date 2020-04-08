@@ -38,7 +38,6 @@ set mouse=a
 
 " open new split in
 set splitbelow splitright
-" :help highlight
 " delete tailing spaces
 autocmd BufWritePre * %s/\s\+$//e
 
